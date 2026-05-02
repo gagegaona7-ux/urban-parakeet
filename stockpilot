@@ -1,0 +1,1 @@
+mkdir -p /home/claude/stockpilot/{pages/{api/products,api/sales,api/upload},components,lib,styles,public} && echo "done"
